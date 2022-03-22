@@ -1,3 +1,6 @@
 Test text. Hello
+Add text from <first>
 changes from <master>
--new changes
+-new
+-changes
+
