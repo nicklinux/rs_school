@@ -1,2 +1,3 @@
 Test text. Hello
 changes from <master>
+-new changes
